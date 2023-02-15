@@ -41,6 +41,9 @@
                 <string>soundcloud</string>
                 <string>fb-messenger</string>
                 <string>instagram</string>
+				<string>bizx</string>
+				<string>concurmobile</string>
+				<string>mywellness</string>
             </array>
         </config-file>
         
